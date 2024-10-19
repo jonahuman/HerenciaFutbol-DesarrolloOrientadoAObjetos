@@ -1,4 +1,4 @@
-# Ejercicio de Herencia ☕
+# Ejercicio de Herencia (en Branch "feat/base-project") ☕
 
 Este proyecto en Java implementa un ejercicio de herencia que simula una selección de fútbol. Incluye clases que heredan características comunes de una clase base `Persona` y métodos específicos para cada tipo de rol en la selección (Futbolista, Masajista, Entrenador).
 
